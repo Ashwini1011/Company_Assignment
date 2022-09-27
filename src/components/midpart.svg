@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="100" viewBox="0 0 260 100">
+  <g id="Group_7681" data-name="Group 7681" transform="translate(4935 -13358)">
+    <rect id="Rectangle_917" data-name="Rectangle 917" width="260" height="100" transform="translate(-4935 13358)" fill="#fff4ec"/>
+    <g id="Group_7680" data-name="Group 7680" transform="translate(0 5)">
+      <g id="Group_7677" data-name="Group 7677">
+        <g id="Group_7671" data-name="Group 7671" transform="translate(-4941 13180)">
+          <path id="Rectangle_2943" data-name="Rectangle 2943" d="M2,0H34.333a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(16 210)" fill="#fd755e"/>
+          <rect id="Rectangle_2944" data-name="Rectangle 2944" width="34.333" height="4" transform="translate(52.999 210)" fill="#dadada" opacity="0.5"/>
+          <path id="Rectangle_2945" data-name="Rectangle 2945" d="M0,0H32.333a2,2,0,0,1,2,2V2a2,2,0,0,1-2,2H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(88.997 210)" fill="#dadada" opacity="0.5"/>
+        </g>
+        <text id="Weak" transform="translate(-4925 13385)" fill="#3a3752" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700" letter-spacing="0.033em"><tspan x="0" y="0">Weak</tspan></text>
+      </g>
+      <g id="Group_7676" data-name="Group 7676" transform="translate(0 6)">
+        <g id="Group_7672" data-name="Group 7672" transform="translate(-5064 13212)">
+          <path id="Rectangle_2942" data-name="Rectangle 2942" d="M2,0H34.333a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(139 210)" fill="#ff993f"/>
+          <rect id="Rectangle_2942-2" data-name="Rectangle 2942" width="34.333" height="4" transform="translate(176 210)" fill="#ff993f"/>
+          <g id="Rectangle_2942-3" data-name="Rectangle 2942" transform="translate(212 210)" fill="#dadada" stroke="#dadada" stroke-width="1" opacity="0.5">
+            <path d="M0,0H32.333a2,2,0,0,1,2,2V2a2,2,0,0,1-2,2H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M1,.5H32.333a1.5,1.5,0,0,1,1.5,1.5V2a1.5,1.5,0,0,1-1.5,1.5H1A.5.5,0,0,1,.5,3V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+          </g>
+        </g>
+        <text id="Improvement" transform="translate(-4925 13417)" fill="#3a3752" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700" letter-spacing="0.033em"><tspan x="0" y="0">Improvement</tspan></text>
+      </g>
+      <g id="Group_7679" data-name="Group 7679">
+        <g id="Group_7674" data-name="Group 7674" transform="translate(-5050.335 13180)">
+          <g id="Group_7669" data-name="Group 7669">
+            <path id="Rectangle_2946" data-name="Rectangle 2946" d="M2,0H34.333a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(258 210)" fill="#ffd504"/>
+            <rect id="Rectangle_2947" data-name="Rectangle 2947" width="34.333" height="4" transform="translate(294.832 210)" fill="#ffd504"/>
+            <path id="Rectangle_2948" data-name="Rectangle 2948" d="M0,0H32.333a2,2,0,0,1,2,2V2a2,2,0,0,1-2,2H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(330.667 210)" fill="#dadada" opacity="0.5"/>
+            <rect id="Rectangle_2952" data-name="Rectangle 2952" width="17.167" height="4" transform="translate(330.667 210)" fill="#ffd504"/>
+          </g>
+        </g>
+        <text id="Average" transform="translate(-4792 13385)" fill="#3a3752" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700" letter-spacing="0.033em"><tspan x="0" y="0">Average</tspan></text>
+      </g>
+      <g id="Group_7678" data-name="Group 7678" transform="translate(0 6)">
+        <g id="Group_7675" data-name="Group 7675" transform="translate(-5169.335 13212)">
+          <g id="Group_7664" data-name="Group 7664" transform="translate(0 2)">
+            <path id="Rectangle_2949" data-name="Rectangle 2949" d="M2,0H34.333a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(377 208)" fill="#569efe"/>
+            <rect id="Rectangle_2950" data-name="Rectangle 2950" width="34.333" height="4" transform="translate(413.832 208)" fill="#569efe"/>
+            <path id="Rectangle_2951" data-name="Rectangle 2951" d="M0,0H32.333a2,2,0,0,1,2,2V2a2,2,0,0,1-2,2H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(449.667 208)" fill="#569efe"/>
+          </g>
+        </g>
+        <text id="Cutoff_level" data-name="Cutoff level" transform="translate(-4792 13417)" fill="#3a3752" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700" letter-spacing="0.033em"><tspan x="0" y="0">Cutoff level</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
